@@ -16,4 +16,4 @@ formatIp = (x) => {
 
 }
 
-console.log(formatIp(3));
+formatIp("::ffff:5.151.197.160");
